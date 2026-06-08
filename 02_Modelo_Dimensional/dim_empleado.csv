@@ -1,0 +1,61 @@
+empleado_sk,cedula,nombre_completo,cargo,departamento,tipo_contrato,fecha_ingreso,cliente_sk
+1,PE-93-886,Empleado_Inv_1,Operario,Operaciones,Temporal,5/15/2023,1
+2,PE-64-774,Empleado_Inv_2,Gerente,Finanzas,Indefinido,5/15/2023,1
+3,PE-91-349,Empleado_Inv_3,Coordinador,Finanzas,Temporal,5/15/2023,1
+4,PE-67-506,Empleado_Inv_4,Coordinador,Operaciones,Por Obra,5/15/2023,1
+5,PE-48-947,Empleado_Inv_5,Operario,Finanzas,Por Obra,5/15/2023,1
+6,PE-16-966,Empleado_Inv_6,Supervisor,Operaciones,Por Obra,5/15/2023,1
+7,PE-92-985,Empleado_Inv_7,Gerente,Tecnologia,Indefinido,5/15/2023,1
+8,PE-19-511,Empleado_Inv_8,Operario,Ventas,Indefinido,5/15/2023,1
+9,PE-95-147,Empleado_Inv_9,Coordinador,Finanzas,Por Obra,5/15/2023,1
+10,PE-40-168,Empleado_Inv_10,Coordinador,Tecnologia,Indefinido,5/15/2023,1
+11,PE-48-101,Empleado_Inv_11,Gerente,Ventas,Temporal,5/15/2023,1
+12,PE-86-890,Empleado_Inv_12,Analista,Tecnologia,Temporal,5/15/2023,1
+13,PE-27-107,Empleado_Inv_13,Gerente,Logistica,Por Obra,5/15/2023,1
+14,PE-18-501,Empleado_Inv_14,Operario,Finanzas,Indefinido,5/15/2023,1
+15,PE-32-835,Empleado_Tec_1,Operario,Operaciones,Por Obra,5/15/2023,2
+16,PE-37-866,Empleado_Tec_2,Coordinador,Ventas,Indefinido,5/15/2023,2
+17,PE-78-783,Empleado_Tec_3,Analista,Logistica,Por Obra,5/15/2023,2
+18,PE-80-132,Empleado_Tec_4,Gerente,Operaciones,Indefinido,5/15/2023,2
+19,PE-26-665,Empleado_Tec_5,Analista,Tecnologia,Temporal,5/15/2023,2
+20,PE-94-582,Empleado_Tec_6,Gerente,Operaciones,Indefinido,5/15/2023,2
+21,PE-82-384,Empleado_Tec_7,Operario,Finanzas,Por Obra,5/15/2023,2
+22,PE-79-230,Empleado_Tec_8,Operario,Tecnologia,Por Obra,5/15/2023,2
+23,PE-51-600,Empleado_Tec_9,Coordinador,Tecnologia,Indefinido,5/15/2023,2
+24,PE-32-877,Empleado_Tec_10,Analista,Ventas,Indefinido,5/15/2023,2
+25,PE-46-773,Empleado_Tec_11,Coordinador,Operaciones,Indefinido,5/15/2023,2
+26,PE-57-681,Empleado_Tec_12,Operario,Operaciones,Por Obra,5/15/2023,2
+27,PE-90-509,Empleado_Tec_13,Supervisor,Finanzas,Indefinido,5/15/2023,2
+28,PE-69-543,Empleado_Tec_14,Analista,Operaciones,Por Obra,5/15/2023,2
+29,PE-87-186,Empleado_Tec_15,Supervisor,Tecnologia,Temporal,5/15/2023,2
+30,PE-15-735,Empleado_Agr_1,Gerente,Finanzas,Indefinido,5/15/2023,3
+31,PE-79-529,Empleado_Agr_2,Coordinador,Operaciones,Temporal,5/15/2023,3
+32,PE-12-233,Empleado_Agr_3,Analista,Logistica,Por Obra,5/15/2023,3
+33,PE-15-286,Empleado_Agr_4,Gerente,Tecnologia,Por Obra,5/15/2023,3
+34,PE-49-896,Empleado_Agr_5,Supervisor,Logistica,Indefinido,5/15/2023,3
+35,PE-44-212,Empleado_Agr_6,Coordinador,Operaciones,Por Obra,5/15/2023,3
+36,PE-99-602,Empleado_Agr_7,Gerente,Tecnologia,Indefinido,5/15/2023,3
+37,PE-25-794,Empleado_Agr_8,Gerente,Operaciones,Temporal,5/15/2023,3
+38,PE-46-397,Empleado_Agr_9,Gerente,Tecnologia,Por Obra,5/15/2023,3
+39,PE-14-204,Empleado_Agr_10,Analista,Finanzas,Por Obra,5/15/2023,3
+40,PE-86-245,Empleado_Agr_11,Analista,Ventas,Indefinido,5/15/2023,3
+41,PE-17-572,Empleado_Agr_12,Coordinador,Ventas,Temporal,5/15/2023,3
+42,PE-28-386,Empleado_Agr_13,Supervisor,Tecnologia,Por Obra,5/15/2023,3
+43,PE-20-565,Empleado_Agr_14,Coordinador,Tecnologia,Por Obra,5/15/2023,3
+44,PE-10-150,Empleado_Agr_15,Supervisor,Ventas,Por Obra,5/15/2023,3
+45,PE-37-818,Empleado_Agr_16,Gerente,Logistica,Indefinido,5/15/2023,3
+46,PE-81-376,Empleado_Agr_17,Gerente,Logistica,Indefinido,5/15/2023,3
+47,PE-69-566,Empleado_Agr_18,Analista,Finanzas,Indefinido,5/15/2023,3
+48,PE-37-679,Empleado_Agr_19,Coordinador,Tecnologia,Temporal,5/15/2023,3
+49,PE-20-571,Empleado_Agr_20,Operario,Finanzas,Temporal,5/15/2023,3
+50,PE-80-756,Empleado_Agr_21,Supervisor,Finanzas,Temporal,5/15/2023,3
+51,PE-17-924,Empleado_Agr_22,Analista,Ventas,Indefinido,5/15/2023,3
+52,PE-63-399,Empleado_Agr_23,Analista,Operaciones,Por Obra,5/15/2023,3
+53,PE-39-210,Empleado_Agr_24,Supervisor,Logistica,Por Obra,5/15/2023,3
+54,PE-53-139,Empleado_Agr_25,Coordinador,Ventas,Por Obra,5/15/2023,3
+55,PE-95-506,Empleado_Agr_26,Coordinador,Ventas,Temporal,5/15/2023,3
+56,PE-37-958,Empleado_Agr_27,Analista,Ventas,Temporal,5/15/2023,3
+57,PE-11-554,Empleado_Agr_28,Operario,Ventas,Indefinido,5/15/2023,3
+58,PE-15-431,Empleado_Agr_29,Operario,Finanzas,Indefinido,5/15/2023,3
+59,PE-45-856,Empleado_Agr_30,Operario,Finanzas,Por Obra,5/15/2023,3
+60,PE-68-504,Empleado_Tec_16,Operario,Logistica,Por Obra,5/15/2023,2

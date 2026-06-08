@@ -1,0 +1,4 @@
+cliente_sk,cliente_id,razon_social,sector,pais,fecha_inicio_servicio,activo
+1,15523-2-65342 DV 45,Inversiones Pacifico S.A.,Comercio,Panamá,2024-01-01,True
+2,8-842-1324 DV 12,TechServ Panama S.A.,Servicios TI,Panamá,2024-01-01,True
+3,4-721-985 DV 88,Agroexport Chiriqui S.A.,Agroindustrial,Panamá,2024-01-01,True

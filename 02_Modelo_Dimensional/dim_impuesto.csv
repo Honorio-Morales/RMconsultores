@@ -1,0 +1,4 @@
+impuesto_sk,codigo_impuesto,nombre_impuesto,periodicidad,tasa_referencia,ente_recaudador
+1,ITBMS,Impuesto de Transferencia de Bienes Muebles y Servicios,Mensual,0.07,DGI
+2,ISR_Juridico,Impuesto sobre la Renta Jurídica,Anual,0.25,DGI
+3,CSS,Caja de Seguro Social (Cuota Obrero Patronal),Mensual,0.22,CSS
